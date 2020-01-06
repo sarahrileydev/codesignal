@@ -28,6 +28,7 @@ function alphabeticShift(inputString) {
     "t",
     "u",
     "v",
+    "w",
     "x",
     "y",
     "z"
